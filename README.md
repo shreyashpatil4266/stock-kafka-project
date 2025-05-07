@@ -19,12 +19,7 @@ We are going to use different technologies such as Python, Amazon Web Services (
 - Apache Kafka
 
 
-## Dataset Used
-You can use any dataset, we are mainly interested in operation side of Data Engineering (building data pipeline) 
-
-Here is the dataset used in the video - https://github.com/darshilparmar/stock-market-kafka-data-engineering-project/blob/main/indexProcessed.csv
+when you use the ec2 
+Amazon Machine Image (AMI) ----- Select -----Amazon Linux 2 SSD Volume type
 
 
-## Complete Video Tutorial 
-
-Video Link - https://www.youtube.com/embed/KerNf0NANMo
